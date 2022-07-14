@@ -4,6 +4,8 @@
     "documentation": "https://github.com/jkirkcaldy/ha_strava/issues",
     "dependencies": [],
     "codeowners": ["@codingcyclist", "@jkirkcaldy"],
-    "requirements": ["aiohttp==3.6.1", "voluptuous==0.11.7"],
+    "requirements": [
+      "aiohttp==3.6.1",
+      "voluptuous==0.11.7"],
     "config_flow": true
   }
