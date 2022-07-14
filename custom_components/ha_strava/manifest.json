@@ -3,9 +3,7 @@
     "name": "Strava Home Assistant",
     "documentation": "https://github.com/jkirkcaldy/ha_strava/issues",
     "codeowners": ["@jkirkcaldy"],
-    "requirements": [
-      "aiohttp==3.8.1",
-      "voluptuous==0.13.1"],
+    "requirements": ["voluptuous==0.13.1"],
     "config_flow": true,
     "version": "0.1.2"
   }
